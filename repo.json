@@ -1,0 +1,20 @@
+{
+  "packages": [
+    {
+      "id": "youtube.leanback.v4",
+      "title": "YouTube Cobalt AdFree Beta",
+      "shortDescription": "YouTube Cobalt AdFree v2.0.5 Beta",
+      "iconUri": "https://raw.githubusercontent.com/RF1705/youtube-webos-cobalt-adfree/main/assets/largeIcon.png",
+      "manifest": {
+        "id": "youtube.leanback.v4",
+        "version": "2.0.5",
+        "type": "native",
+        "title": "YouTube Cobalt AdFree Beta",
+        "iconUri": "https://raw.githubusercontent.com/RF1705/youtube-webos-cobalt-adfree/main/assets/largeIcon.png",
+        "sourceUrl": "https://github.com/RF1705/youtube-webos-cobalt-adfree",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/RF1705/youtube-webos-cobalt-adfree/releases/download/v2.0.5-beta/youtube.leanback.v4_2.0.5_arm.ipk"
+      }
+    }
+  ]
+}
